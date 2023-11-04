@@ -1,6 +1,6 @@
 # Anthropic Hackathon
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TuabnaCelik/anthropic-hackathon/blob/main/Workshop_Antrhopic_Hakathon_Haystack.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TuanaCelik/anthropic-hackathon/blob/main/Workshop_Antrhopic_Hakathon_Haystack.ipynb)
 
 Here you will find the colab notebook that we will be using for the Haystack workshop at the Anthropic Hackathon. 
 
